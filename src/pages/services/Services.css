@@ -1,0 +1,59 @@
+.services-page {
+    /* padding-top: 0px; */
+    margin: 0px;
+}
+
+.section-one1 {
+    background-image: url('../../assets/uf_studio.png');
+    filter: blur(-3px);
+    background-size: cover;
+    background-position: center;
+    /* padding: 100px 0; */
+    color: #fff;
+    padding: 20px;
+    border: 5px solid rgb(27, 21, 21);
+}
+
+.section-two2 {
+    background-image: url('../../assets/uf-store.jpg');
+    filter: blur(-3px);
+    background-size: cover;
+    background-position: center;
+    /* padding: 100px 0; */
+    color: #fff;
+    text-align: right;
+    display: flex;
+    padding: 20px;
+    border: 5px solid rgb(27, 21, 21);
+}
+
+.section-three3 {
+    background-image: url('../../assets/uf_athlet.jpg');
+    filter: blur(-3px);
+    background-size: cover;
+    padding: 100px 0;
+    color: #fff;
+    padding: 20px;
+    border: 5px solid rgb(27, 21, 21);
+    border-bottom: none;
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.description p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+button {
+    font-size: 1.2rem;
+}
+
+
+
+

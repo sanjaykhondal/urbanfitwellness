@@ -1,0 +1,101 @@
+.footer-container {
+    /* display: flex;
+    justify-content: center;
+    align-items: flex-start; */
+    background-color: #778af5;
+    padding: 20px;
+    color: rgb(249, 250, 250);
+}
+
+.footer-container .footer-div {
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+}
+
+.footer-container .foot-div p{
+    text-align: center;
+}
+.footer-left {
+    flex: 1;
+    margin-left: 50px;
+}
+
+
+.footer-left p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.sign-up-form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.sign-up-form h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.sign-up-form input {
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.sign-up-form button {
+    background-color: #349408;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    width: fit-content;
+    border-radius: 35%;
+}
+
+.sign-up-form .sign-up-button-div {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-right {
+    flex: 1;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+
+
+.footer-right p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.social-media-links button {
+    width: 45px;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 50%;
+}
+
+.social-media-links a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #333;
+}
+
+.social-media-links a:hover {
+    color: #337ab7;
+}
+
+.foot-div{
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin-bottom: 0%;
+}
+
+.foot-div p{
+    margin: 0px 2px;
+}

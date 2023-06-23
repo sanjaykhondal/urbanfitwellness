@@ -1,0 +1,33 @@
+.quotes-page {
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    padding: 2rem 3rem
+  }
+  
+  
+  .quotes-carousel {
+    /* max-width: 600px; */
+    margin: 0 auto;
+  }
+  
+  .quotes-carousel .slide {
+    text-align: center;
+    padding: 3rem
+  }
+  
+  .quotes-carousel h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .quotes-carousel p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .carousel .carousel-status{
+    color: black;
+  }
+  

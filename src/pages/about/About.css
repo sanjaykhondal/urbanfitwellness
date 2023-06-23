@@ -1,0 +1,67 @@
+.about-page {
+  /* padding-top: 50px; */
+}
+
+.section-one {
+  /* background-color: #f9f9f9; */
+  background-color: rgb(189 231 231);
+  padding: 50px 0;
+}
+
+.image-wrapper img {
+  width: 500px;
+  height: 510px;
+  border-radius: 5%;
+}
+
+.section-two {
+  padding: 50px 0;
+  background-color: rgb(189 231 231);
+}
+
+.section-two h2,
+.section-three h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.section-two p {
+  text-align: center;
+}
+
+.card-icons {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-icons img {
+  height: 200px;
+  width: 100px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.section-three {
+  /* background-color: #f9f9f9; */
+  background-color: rgb(219, 231, 231);
+  padding: 50px 0;
+  text-align: center;
+
+}
+
+.section-three h1 {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+
+.teamMembers {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
